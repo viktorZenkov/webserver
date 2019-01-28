@@ -13,7 +13,7 @@ The purpose of the assignment is to familiarize you with the automatic build, co
 3. Add index.html with your name in it
 4. Create automatic build
 
-       i. on hub.docker.com reate id for yourself (if you have not done so before)
+       i. on hub.docker.com create id for yourself (if you have not done so before)
        ii. create automated build (pull out from the top menu)
        iii. connect to github repo you have just created
 5. make a change on the github repo (to trigger build)
