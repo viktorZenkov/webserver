@@ -1,9 +1,5 @@
 # Assignment 1: Deploying webserver 
 
-Only outstanding is eplank
-
-Current results are in [results.md](http://github.com/CS340-19/webserver/blob/master/results.md)
-
 The purpose of the assignment is to familiarize you with the automatic build, containers, and cloud computing
 
 ## The due date is TBD.
