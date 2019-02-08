@@ -2,7 +2,7 @@
 
 The purpose of the assignment is to familiarize you with the automatic build, containers, and cloud computing
 
-## The due date is TBD.
+## The due date is Feb 15.
 
 1. Create repo yougithubid/webserver
 2. Add Dockerfile, for example as the one in this repo
