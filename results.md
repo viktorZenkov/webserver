@@ -27,7 +27,7 @@
 |24|showel17.md|35.202.186.101|<html> <body> <h1> Spencer Howell </h1> </body> </html>|
 |25|sshelby3.md|34.73.12.175||
 |26|ssteinb2.md|34.73.57.203|<html> <body> Samuel Steinberg </body> </html>|
-|27|tfry2.md|35.196.210.77||
+|27|tfry2.md|35.196.210.77|<html> <body> Tanner Fry </body> </html>|
 |28|twheaton.md|34.73.119.104|<html> <body> Tucker's New Web Server </body> </html>|
 |29|yma29.md|34.73.48.64|<html> <body> Yucheng Ma </body> </html>|
 |30|ysun60.md|35.237.149.214|<html> <body> Yiming Sun </body> </html>|
