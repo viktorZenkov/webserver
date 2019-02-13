@@ -11,7 +11,7 @@
 |8|bkidd3.md|35.227.102.243|<html> <body> Brandon Kidd bkidd3 </body> </html>|
 |9|cmobley4.md|34.73.203.189|<html> <body> Chris Mobley </body> </html>|
 |10|dkennard.md|35.237.5.111|<html> <body> Dave Kennard </body> </html>|
-|11|dsun12.md|35.237.100.83|<html> <body> Audris Mockus </body> </html>|
+|11|dsun12.md|35.237.100.83|<html> <body> Derek Sun </body> </html>|
 |12|dwasilko.md|35.231.134.87|<html> <body> David Wasilko </body> </html>|
 |13|dwill148.md|35.196.179.74||
 |14|eplank2.md|35.231.10.52|<html> <body> Emily Plank's webserver website </body> </html>|
@@ -25,8 +25,9 @@
 |22|mbutera.md|35.231.144.251||
 |23|rderby1.md|35.231.170.229|<html> <body> Russell Derby </body> </html>|
 |24|showel17.md|35.202.186.101|<html> <body> <h1> Spencer Howell </h1> </body> </html>|
-|25|ssteinb2.md|34.73.57.203|<html> <body> Samuel Steinberg </body> </html>|
-|26|tfry2.md|35.196.210.77|<html> <body> Tanner Fry </body> </html>|
-|27|twheaton.md|34.73.119.104|<html> <body> Tucker's New Web Server </body> </html>|
-|28|yma29.md|34.73.48.64|<html> <body> Yucheng Ma </body> </html>|
-|29|ysun60.md|34.73.173.249||
+|25|sshelby3.md|34.73.12.175||
+|26|ssteinb2.md|34.73.57.203|<html> <body> Samuel Steinberg </body> </html>|
+|27|tfry2.md|35.196.210.77||
+|28|twheaton.md|34.73.119.104|<html> <body> Tucker's New Web Server </body> </html>|
+|29|yma29.md|34.73.48.64|<html> <body> Yucheng Ma </body> </html>|
+|30|ysun60.md|35.237.149.214|<html> <body> Yiming Sun </body> </html>|
