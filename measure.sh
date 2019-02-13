@@ -5,7 +5,7 @@ git pull
 cd ../webserver
 
 ls -f ../students/[a-z]*.md | while read i; do cat $i | \
-   perl -ane 'chop();print "'$i';$1\n" if m/[^1-9]*(3[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)/'; 
+   perl -ane 'chop();print "'$i';$1\n" if m/[^1-9]*([34][0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)/'; 
 done | sed 's|.*/||'  > complete
 
 nn=1
