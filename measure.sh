@@ -19,6 +19,7 @@ echo "# results for automatic build" > results.md
 echo "|Row|netid|IP|Response|" >> results.md
 echo "|--|-----|--|--------|">> results.md
 sed 's/;/|/g;s/^/|/;s/$/|/' complete.works >> results.md
+cut -d\; -f2 complete.works| sed 's/\.md$//' | join -v2 - eml | awk '{print "| |" $1 "|nothing||"}'>> results.md 
 git add results.md
 git commit -m 'Current status'
 git push
